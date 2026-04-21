@@ -1,22 +1,23 @@
-👋 Hi, I'm Akshat
+Hi, I'm Akshat
 
-💻 BCA Student | Java Developer | Learning DSA & Backend
-🚀 Passionate about building real-world projects
-
-
-🧠 About Me
-
-* 🌱 Currently learning: Java, Spring Boot, Data Structures
-* 💡 Interested in: Backend Development & System Design
-* 🎯 Goal: Become a Software Engineer
+ BCA Student | Java Developer | Learning DSA & Backend
+ Passionate about building real-world projects
 
 
-⚒️ Tech Stack
+ About Me
 
-* 💻 Languages: Java, C, C++
-* 🌐 Web: HTML, CSS
-* 🛢️ Database: MySQL
-* ⚙️ Tools: Git, GitHub, VS Code, IntelliJ
+*  Currently learning: Java, Spring Boot, Data Structures
+*  Interested in: Backend Development & System Design
+*  Goal: Become a Software Engineer
+
+
+ Tech Stack
+
+*  Languages: Java, C, C++
+*  Web: HTML, CSS
+*  Database: MySQL
+*  Tools: Git, GitHub, VS Code, IntelliJ
+
 
 
 📌 Projects
@@ -24,50 +25,8 @@
 * 🔹 E-Commerce Backend (Spring Boot + JPA)
 * 🔹 Banking System (Java)
 
-## 📊 GitHub Stats
 
----
-
-## 📫 Connect With Me
-
-* LinkedIn: # 👋 Hi, I'm Akshat
-
-💻 BCA Student | Java Developer | Learning DSA & Backend
-🚀 Passionate about building real-world projects
-
----
-
-## 🧠 About Me
-
-* 🌱 Currently learning: Java, Spring Boot, Data Structures
-* 💡 Interested in: Backend Development & System Design
-* 🎯 Goal: Become a Software Engineer
-
----
-
-## ⚒️ Tech Stack
-
-* 💻 Languages: Java, C, C++
-* 🌐 Web: HTML, CSS
-* 🛢️ Database: MySQL
-* ⚙️ Tools: Git, GitHub, VS Code, IntelliJ
-
----
-
-## 📌 Projects
-
-* 🔹 E-Commerce Backend (Spring Boot + JPA)
-* 🔹 Banking System (Java)
-
-👉 ()
-
----
-
-## 📊 GitHub Stats
-
----
-
-## 📫 Connect With Me
+Connect With Me
 
 * LinkedIn: www.linkedin.com/in/akshat-maindola
 * GitHub: https://github.com/AkshatMaindola
