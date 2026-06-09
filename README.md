@@ -16,14 +16,14 @@ Hi, I'm Akshat
 *  Languages: Java, C, C++
 *  Web: HTML, CSS
 *  Database: MySQL
-*  Tools: Git, GitHub, VS Code, IntelliJ
+*  Tools: Git, GitHub, VS Code
 
 
 
 📌 Projects
 
-* 🔹 E-Commerce Backend (Spring Boot + JPA)
-* 🔹 Banking System (Java)
+* 🔹 E-Commerce Backend (Spring Boot + JPA + Spring MVC)
+* 🔹 Task Tracker ((Spring Boot + JPA + Spring MVC)
 
 
 Connect With Me
